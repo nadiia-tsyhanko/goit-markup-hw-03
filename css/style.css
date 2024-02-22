@@ -144,8 +144,11 @@ img{
         margin-right: auto;
 }
 
+
+
 .effective-solutions{
-   
+
+    padding: 188px 0;
     background-color: #2E2F42;
 }
 .effective-solutions-container{
@@ -195,8 +198,11 @@ img{
 
 
 
-.btn:focus
+
 .benefits-list-title {
+
+        margin-bottom: 8px;
+
         font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
@@ -205,6 +211,7 @@ img{
         color: #2e2f42;
         margin-bottom: 8px;
 }
+
 .benefits-list-text{
         font-family: "Roboto", sans-serif;
         font-weight: 400;
@@ -295,6 +302,7 @@ img{
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
+    row-gap: 48px;
 
 }
 
